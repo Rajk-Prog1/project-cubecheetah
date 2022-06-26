@@ -1,1 +1,5 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8028684&assignment_repo_type=AssignmentRepo)
+# prog1-projekt
+
+This project was created for the prog1 course.
+
+It scrapes origo's archive, then visualizes and analyzes the headlines based on gender-specific words.
